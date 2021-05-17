@@ -3,6 +3,7 @@ APEX Pipeline Simulator
 ---------------------------------------------------------------------------------
 A simple implementation of 5 Stage APEX Pipeline
 
+Version: Carolina Hernandez Mateo (cherna19@binghamton.edu)
 
 Author :
 ---------------------------------------------------------------------------------
